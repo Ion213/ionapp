@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721672712800",
+    "project_id": "ionapp-99f56",
+    "storage_bucket": "ionapp-99f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721672712800:android:5dfb14b659489ab3bbc905",
+        "android_client_info": {
+          "package_name": "com.example.ionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1OWL8qykw5BN7M2ZSZLIYLU5-R78l0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
